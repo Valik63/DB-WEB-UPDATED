@@ -45,7 +45,7 @@
 <section class="main">
     <div class="container">
         <div class="main-info">
-            <h1 class="main-title">Premium car rental!</h1>
+            <h1 class="main-title">Premium car rental</h1>
             <div class="main-text">Our club has a solid collection of sports cars - from fairly
                 common stock cars to a real racing exclusive. Take the unique
                 opportunity to be behind the wheel of a real legend and see what she can do off the race
